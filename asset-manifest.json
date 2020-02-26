@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gurunavi/static/css/main.d1b05096.chunk.css",
+    "main.js": "/gurunavi/static/js/main.427b4228.chunk.js",
+    "main.js.map": "/gurunavi/static/js/main.427b4228.chunk.js.map",
+    "runtime-main.js": "/gurunavi/static/js/runtime-main.62cc256a.js",
+    "runtime-main.js.map": "/gurunavi/static/js/runtime-main.62cc256a.js.map",
+    "static/js/2.14994050.chunk.js": "/gurunavi/static/js/2.14994050.chunk.js",
+    "static/js/2.14994050.chunk.js.map": "/gurunavi/static/js/2.14994050.chunk.js.map",
+    "index.html": "/gurunavi/index.html",
+    "precache-manifest.05d9780bbf5f267ff9c4db729d3efcc5.js": "/gurunavi/precache-manifest.05d9780bbf5f267ff9c4db729d3efcc5.js",
+    "service-worker.js": "/gurunavi/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/gurunavi/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.14994050.chunk.js.LICENSE.txt": "/gurunavi/static/js/2.14994050.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62cc256a.js",
+    "static/js/2.14994050.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.427b4228.chunk.js"
+  ]
+}
