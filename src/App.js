@@ -17,7 +17,7 @@ class App extends React.Component {
         name4: { link: 'link', name: '' }
       }
     }
-    this.apikey = 'd44820a99e565793f96bb49913a3135f'
+    this.apikey = ''
   }
 
   handleupdate (e) {
